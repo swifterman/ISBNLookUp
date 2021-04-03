@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>168061442551-7q0jhp6sqk8bpsrl9hndhgd81d7iajir.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.168061442551-7q0jhp6sqk8bpsrl9hndhgd81d7iajir</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>168061442551-3io3g9rdd96e87bemec0hmbjav7tjins.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC32xdgsYIPzBlEPlelviIXGCAo5Sg88Hg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168061442551</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vre.stream.video</string>
+	<key>PROJECT_ID</key>
+	<string>fenix-19</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fenix-19.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168061442551:ios:f951fc187d87f9e3e436f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://fenix-19.firebaseio.com</string>
+</dict>
+</plist>

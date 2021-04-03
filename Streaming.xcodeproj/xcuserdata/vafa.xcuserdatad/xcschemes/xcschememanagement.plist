@@ -7,7 +7,25 @@
 		<key>Streaming.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>18</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>01761253260DBF770016B9AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01761269260DBF780016B9AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01761274260DBF780016B9AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
